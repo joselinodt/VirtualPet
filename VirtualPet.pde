@@ -5,6 +5,17 @@ void setup ()
 void draw ()
 {
  background(61,144,49);
+//legs
+fill(102,51,0);
+ellipse(265,515,50,100);
+ellipse(340,515,50,100);
+
+//body
+fill(102,51,0);
+ellipse(300,470,150,150);
+
+//tie
+
 //ears
 fill(102,51,0);
 ellipse(400,200,150,150);
@@ -21,8 +32,8 @@ ellipse (300,300,300,300);
 
 //eyes
 fill(0);
-ellipse(230,300,50,120);
-ellipse(350,300,50,120);
+ellipse(230,295,50,120);
+ellipse(350,295,50,120);
 /*fill(255);
 ellipse(220,320,20,20);
 ellipse(340,320,20,20);
