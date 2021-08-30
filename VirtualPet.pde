@@ -6,7 +6,7 @@ void draw ()
 {
  background(61,144,49);
 stroke(0);
-strokeWeight(3);
+strokeWeight(2);
 //legs
 fill(102,51,0);
 ellipse(265,515,50,100);
